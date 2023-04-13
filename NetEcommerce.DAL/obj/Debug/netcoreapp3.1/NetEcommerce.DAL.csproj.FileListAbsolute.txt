@@ -1,0 +1,32 @@
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.deps.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.runtimeconfig.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.runtimeconfig.dev.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.genruntimeconfig.cache
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.deps.json
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.runtimeconfig.json
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.runtimeconfig.dev.json
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.dll
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetEcommerce.DAL.pdb
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.AssemblyInfo.cs
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.csproj.CopyComplete
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.dll
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.pdb
+C:\Users\anıl\Desktop\NetECommerce\NetEcommerce.DAL\obj\Debug\netcoreapp3.1\NetEcommerce.DAL.genruntimeconfig.cache

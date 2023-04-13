@@ -1,0 +1,26 @@
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Common.deps.json
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Common.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Common.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL 3162\Project\30.01\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.csproj.CopyComplete
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Common.deps.json
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Common.dll
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Common.pdb
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.csproj.AssemblyReference.cache
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.AssemblyInfoInputs.cache
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.AssemblyInfo.cs
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.csproj.CopyComplete
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.dll
+C:\Users\anıl\Desktop\NetECommerce\NetECommerce.Common\obj\Debug\netcoreapp3.1\NetECommerce.Common.pdb

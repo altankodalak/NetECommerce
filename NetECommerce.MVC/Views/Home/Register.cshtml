@@ -1,0 +1,47 @@
+﻿@model RegisterVM
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-6 mx-auto mt-2">
+        @if (TempData["result"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["result"]
+            </div>
+        }
+        <div class="card">
+            <div class="card-header">
+                <h2>User Register</h2>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mt-2">
+                        @Html.LabelFor(x=>x.Username)
+                        <span asp-validation-for="Username"></span>
+                        <input type="text" class="form-control" placeholder="please enter username" asp-for="Username"/>
+                    </div>
+                    <div class="mt-2">
+                        @Html.LabelFor(x=>x.Email)
+                        <span asp-validation-for="Email"></span>
+                        <input type="text" class="form-control" placeholder="please enter email" asp-for="Email" />
+                    </div>
+                    <div class="mt-2">
+                        @Html.LabelFor(x=>x.Password)
+                        <span asp-validation-for="Password"></span>
+                        <input type="password" class="form-control" placeholder="please enter password" asp-for="Password" />
+                    </div>
+                    <div class="mt-2">
+                        @Html.LabelFor(x=>x.ConfirmPassword)
+                        <span asp-validation-for="ConfirmPassword"></span>
+                        <input type="password" class="form-control" placeholder="please enter confirm password" asp-for="ConfirmPassword" />
+                    </div>
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

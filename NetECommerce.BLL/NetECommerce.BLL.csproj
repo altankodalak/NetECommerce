@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetECommerce.Common\NetECommerce.Common.csproj" />
+    <ProjectReference Include="..\NetEcommerce.DAL\NetEcommerce.DAL.csproj" />
+    <ProjectReference Include="..\NetECommerce.Entity\NetECommerce.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

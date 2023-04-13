@@ -1,0 +1,62 @@
+﻿@model List<NetECommerce.Entity.Entity.Category>
+@{
+    ViewData["Title"] = "Category";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+@if (TempData["result"] != null)
+{
+    <div class="alert alert-info alert-dismissible mt-2">
+        <span>@TempData["result"]</span>
+    </div>
+}
+<div class="card mb-4 mt-2">
+    <div class="card-header">
+        <div class="d-flex justify-content-between">
+            <h3>@ViewData["Title"]</h3>
+            <a class="btn btn-success" asp-action="create" asp-controller="category" >New Category</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Category Name</th>
+                    <th>Description</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if (Model.Count == 0)
+                    {
+                        <tr>
+                            <td colspan="4">
+                                <span>Herhangi bir kategori eklenmemiş</span>
+                            </td>
+
+                        </tr>
+                    }
+
+                    {
+                        foreach (var category in Model)
+                        {
+                            <tr>
+                            <td>@category.Id</td>
+                            <td>@category.CategoryName</td>
+                             <td>@category.Description</td>
+                             <td>
+                              <a class="btn btn-sm btn-warning" href="/Dashboard/Category/Update/@category.Id">Update</a> 
+                        |
+                                    <a class="btn btn-sm btn-danger" href="/Dashboard/Category/Delete/@category.Id">Delete</a>
+                             </td>
+                            </tr>
+                        }
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,91 @@
+﻿@{
+    //var session = NetECommerce.MVC.Utils.SessionHelper.GetProductFromJson<NetECommerce.Common.Cart>(Context.Session, "sepet");
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NetECommerce.MVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="#!">@ViewData["Title"]</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                        <li class="nav-item"><a class="nav-link active" asp-controller="Home" asp-action="Index" asp-area="Dashboard">Dashboard</a></li>
+                        <li class="nav-item"><a class="nav-link active" asp-controller="Home" asp-action="Index">Products</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Categories</a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#!">All Products</a></li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li><a class="dropdown-item" href="#!">Popular Items</a></li>
+                                <li><a class="dropdown-item" href="#!">New Arrivals</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <form class="d-flex">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a class="btn btn-outline-dark" style="margin-right:10px" asp-controller="Home" asp-action="Index">
+                                @User.Identity.Name
+                            </a>
+                        }
+                        else
+                        {
+                            <button class="btn btn-outline-dark" type="submit" style="margin-right:10px" asp-controller="Home" asp-action="Login">
+                            Giriş Yap
+                        </button>
+                        <button class="btn btn-outline-dark" type="submit" style="margin-right:10px" asp-controller="Home" asp-action="Register">
+                            Kaydol
+                        </button>
+                        }
+                        
+                        <a class="btn btn-outline-dark" asp-action="MyCart" asp-controller="Home" type="submit">
+                            <i class="bi-cart-fill me-1"></i>
+                            Cart
+                            @if (TempData["sepet"] != null)
+                            {
+                               
+                                    var sepet = TempData["sepet"] as NetECommerce.Common.Cart;
+                               
+
+                                <span class="badge bg-dark text-white ms-1 rounded-pill">@sepet._myCart.Count</span>
+                            }else
+                            {
+                                 <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>    
+                            }
+                           @* @if (session != null)
+                            {
+                                <span class="badge bg-dark text-white ms-1 rounded-pill">@session._myCart.Count</span>
+                            }*@
+                        </a>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - NetECommerce.MVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+   
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
